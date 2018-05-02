@@ -1,0 +1,3 @@
+[submodule "Plugins/NeosisGUIPlugin"]
+	path = Plugins/NeosisGUIPlugin
+	url = git@github.com:Noesis/UE4Plugin.git
